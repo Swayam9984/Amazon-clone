@@ -98,7 +98,6 @@ Run `npm start` to start the application
 
 **Profile page**
 
-![image](https://user-images.githubusercontent.com/81776711/224616059-925032b3-17a6-481e-80e7-f55016b81a09.png)
 
 
 # UI design inspirations
