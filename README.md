@@ -107,7 +107,7 @@ The UI of the project is completely inspired and even taken from these, all the 
 
 [Home Page](https://dribbble.com/shots/15350650-Amazon-Website-Redesign-Concept)
 
-[Profile section](https://dribbble.com/shots/20739514-Ecommerce-Account-Page-Dashboard-UXUI)
+
 
 
 # Contributing
